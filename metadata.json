@@ -1,0 +1,7 @@
+{
+  "name": "YOURROOM - Plateforme Immobilière Togo",
+  "description": "Une plateforme moderne permettant aux démarcheurs au Togo de poster des annonces d'appartements, aux clients de négocier et aux administrateurs de gérer le système.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
